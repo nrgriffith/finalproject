@@ -1,0 +1,10 @@
+Parts:
+
+Current Sensor: 	https://www.adafruit.com/product/904
+ATmega328 breakout:	https://www.adafruit.com/product/2590
+Thermocouple Amplifier:	https://www.adafruit.com/product/3263
+Display:		https://www.adafruit.com/product/1912
+ATmega128 dev board:	https://www.mil.ufl.edu/projects/gnuman/gnuman_pre2005/spec_sheets/atmel_progressive.pdf
+Op-Amp:			http://www.ti.com/product/TLV2262
+DAC:			https://pdfserv.maximintegrated.com/en/ds/MAX517-MAX519.pdf
+Transistor:		https://www.adafruit.com/product/976
